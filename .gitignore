@@ -1,0 +1,10 @@
+# IDE
+/.idea
+/.vscode
+
+# Nodes
+/node_modules
+
+# Misc
+.DS_Store
+/test.js
